@@ -31,7 +31,7 @@ A **React app** where clicking a button cycles through different **MVPs** and **
 
 5. **Open in Browser**  
 - Go to http://localhost:3000
-- Click the buttons to cycle through car brands and NBA teams  
+- Click the buttons to cycle through MVPs and Vacation Spots  
 
 ## Screen Recording
 

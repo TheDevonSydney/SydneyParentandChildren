@@ -36,4 +36,4 @@ A **React app** where clicking a button cycles through different **MVPs** and **
 ## Screen Recording
 
 Here is how the site should look:  
-[Click to view the recording](public/ParentChildRecord.mp4)
+[Click to view the recording](public/ParentChildrRecord.mp4)

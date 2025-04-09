@@ -15,11 +15,11 @@ A **React app** where clicking a button cycles through different **MVPs** and **
 
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/deetheking03/Parents-and-Children-HW.git
+   git clone https://github.com/TheDevonSydney/SydneyParentandChildren.git
 
 2. **Navigate to the Project Folder**  
    ```sh
-   cd Parents-and-Children-HW
+   cd SydneyParentandChildren
 
 3. **Install Dependencies**  
    ```sh
